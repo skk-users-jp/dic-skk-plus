@@ -7,7 +7,7 @@
 ## ファイル
 
 * 送りがな補正辞書
-  * [`skk-plus.txt`](skk-plus.txt) - 通常ローマ字かな変換向け
+  * [`skk-plus.txt`](skk-plus.txt) - 通常ローマ字かな変換向け <a href="skk-plus.txt" charset="shift_jis">@</a>
 
 ## Copyright
 
